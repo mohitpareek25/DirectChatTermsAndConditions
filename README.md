@@ -1,185 +1,144 @@
 ## Terms And Conditions
 
-These Terms of Service (“Terms”) are a legal agreement between Direct Chat or “we”
-and you (“you”). By using or accessing any Direct Chat website or application (“Service”)
-you agree to be bound by these Terms. By accessing or using the Service, you agree
-that you have read, understood, and accept to be bound by the Terms. Direct
-Chat reserves the right, in its sole discretion, modify or revise these Terms at any time,
-and you agree to be bound by such modifications or revisions. If you do not agree to the
-Terms, do not use the Service.
-Users are responsible for periodically viewing the Terms. Your continued use of the
-Service after a change or update has been made will constitute your acceptance to the
-revised Terms. If you do not agree to the Terms your only remedy is to discontinue your
-use of the Service and cancel any accounts you have made using the Service.
-If you violate the Terms, Direct Chat reserves the right to issue you a warning regarding
-the violation or immediately terminate or suspend any or all accounts you have created
-using the Service. You agree that Direct Chat need not provide you notice before
-terminating or suspending your account(s), but it may do so.
-Direct Chat reserves the right to refuse any user access to the Services without notice
-for any reason, including, but not limited to, a violation of the Terms.
-You agree that Direct Chat may discontinue the Service or change the content of the
-Service at any time, for any reason, with or without notice to you, without liability.
-You represent that you are 13 years old or older. If you are between the ages of 13 and
-18, you represent that your legal guardian has reviewed and agrees to the Terms.
-Intellectual Property/Ownership
-All materials that are part of the Service (including, but not limited to, designs, text,
-graphics, pictures, video, information, applications, software, music, sound and other
-files, and their selection and arrangement) are protected by law from unauthorized use.
-The entire contents of the Service are copyrighted under the Indian copyright laws
-and/or similar laws of other jurisdictions.
-You agree that no materials that are part of the Service may be modified, copied,
-distributed, framed, reproduced, republished, downloaded, scraped, displayed, posted,
-transmitted, or sold in any form or by any means, in whole or in part, or otherwise
-exploited without Direct Chat’s express prior written permission, except that the
-foregoing does not apply to your own User Content (as defined below) that you legally
-post on the Site. All other uses of copyrighted material, including any derivative use,
-requires express prior written permission from Direct Chat. Any reproduction or
-redistribution of materials not in accordance with these Terms is expressly prohibited
-and may result in severe civil and criminal penalties.
-Direct Chat and/or its licensors remain the owners of right, title, and interest, including
-copyrights and other intellectual property rights, in and to all materials posted on the
-Services by Direct Chat. You acknowledge that you do not acquire any ownership rights
-by using the Service or by accessing any materials posted on the Service by Direct Chat,
-or any derivative works thereof.
-Direct Chat grants you a personal, non-exclusive, non-transferable, revocable, limited
-scope license to use the Service solely for the purpose of viewing and using the
-applicable Services and for no other purpose whatsoever. Your license to use the
-Services is limited by these Terms.
+Direct Chat “ Privacy Policy
 
-User Content
-You agree that you are willingly publishing the content on the Service using technology
-and tools provided by Direct Chat. You understand and agree that you may not
-distribute, sell, transfer or license this content and/or application in any manner, in any
-country, or on any social network or other medium without the explicit written permission
-of Direct Chat. You grant Direct Chat the right to act as an agent on your behalf as
-operator of the application.
-Any data, text, graphics, photographs and their selection and arrangement, (hereinafter
-“User Content”) uploaded to the Service are subject, whether in whole or in part, to
-unlimited commercial, non-commercial and/or promotional use by Direct Chat. Text,
-graphics, and photographs are uploaded by you and are the sole responsibility of the
-person from whom the User Content originated. Thus, users are responsible, and Direct
-Chat is not responsible for any files users upload, post, or otherwise make available.
-Direct Chat may or may not regulate User Content and does not guarantee the accuracy,
-quality, or integrity of any User Content posted via the Direct Chat application. By using
-Direct Chat you acknowledge and accept that you may be exposed to material you find
-offensive or objectionable. You agree that Direct Chat will not under any circumstances
-be liable for any User Content, including, but not limited to, errors in any User Content,
-or any loss or damage incurred by use of the User Content.
-Direct Chat reserves the right to remove and permanently delete any User Content from
-the Service with or without notice.
-Virtual Currencies/Goods
-The Service may include an opportunity to purchase virtual, in-app currency (“Virtual
-Currency”) that may require you to pay a fee using “real money” to obtain the Virtual
-Currency. Virtual Currency can never be redeemed for real money, goods, or any other
-item of monetary value from Direct Chat or any other party. You understand that you
-have no right or title in the virtual in app items or Virtual Currency.
-Your purchase of Virtual Currency is final and is not refundable, exchangeable,
-transferable, except in Direct Chat’s sole discretion. You may not purchase, sell, or
-exchange Virtual Currency outside the Service. Doing so is a violation of the Terms and
-may result in termination of your account with the Service and/or legal action.
-Direct Chat retains the right to modify, manage, control and/or eliminate Virtual Currency
-at its sole discretion. Prices and availability of virtual in app goods are subject to change
-without notice.
-Rules of Conduct/Usage
-The Direct Chat Service may provide communication channels such as forums,
-communities, or chat areas (“Communication Channels”) designed to enable you to
-communicate with other Service users. Direct Chat has no obligation to monitor these
-communication channels but it may do so and reserves the right to review materials
-posted to the Communication Channels and to remove any materials, at any time, with
-or without notice for any reason, at its sole discretion. Direct Chat may also terminate or
-suspend your access to any Communication Channels at any time, without notice, for
-any reason. You acknowledge that chats, postings, or materials posted by users on the
-Communication Channels are neither endorsed nor controlled by Direct Chat, and these
-communications should not be considered reviewed or approved by Direct Chat. Direct
 
-Chat will not under any circumstances by liable for any activity within Communication
-Channels.
-You agree that all your communications with the Communication Channels are public,
-and thus you have no expectation of privacy regarding your use of the Communication
-Channels. Direct Chat is not responsible for information that you choose to share on the
-Communication Channels, or for the actions of other users.
-You agree that your use of the Service shall be lawful and that you will comply with the
-usage rules. In furtherance of the foregoing, and as an example and not as a limitation,
-you agree not to use the Service in order to:
-• post, upload, transmit or otherwise disseminate information that
-is obscene, indecent, vulgar, pornographic, sexual or otherwise objectionable
-• defame, libel, ridicule, mock, stalk, threaten, harass, intimidate or
-abuse anyone, hatefully, racially, ethnically or, in a reasonable person’s view, otherwise
-offensive or objectionable
-• upload or transmit (or attempt to upload or transmit) files that
-contain viruses, Trojan horses, worms, time bombs, cancelbots, corrupted files or data,
-or any other similar software or programs that may damage the operation of the Service
-or other users’ computers
-• violate the contractual, personal, intellectual property or other
-rights of any party including using, uploading, transmitting, distributing, or otherwise
-making available any information made available through the Service in any manner that
-infringes any copyright, trademark, patent, trade secret, or other right of any party
-(including rights of privacy or publicity)
-• attempt to obtain passwords or other private information from
-other members
-• improperly use support channels or complaint buttons to make
-false reports to Direct Chat
-• develop, distribute, or publicly inform other members of “auto”
-software programs, “macro” software programs or other “cheat utility” software program
-or applications in violation of the applicable License Agreements
-• exploit, distribute or publicly inform other members of any app
-error, miscue or bug which gives an unintended advantage
-• violate any applicable laws or regulations, or promote or
-encourage any illegal activity including, but not limited to, hacking, cracking or
-distribution of counterfeit software, or cheats or hacks for the Service
-•
-Disclaimer of Warranty; Limitation of Liability
-You agree that your use of the Service shall be at your sole risk. To the fullest extent
-permitted by law, Direct Chat, its officers, directors, employees, and agents disclaim all
-warranties, express or implies, in connection with the website and your use thereof
-including implied warranties of title, merchantability, fitness for a particular purpose or
-non-infringement, accuracy, authority, completeness, usefulness, and timeliness. Direct
-Chat makes no warranties or representations about the accuracy or completeness of the
-content of the Service of the content of any sites linked to the Service and assumes no
-liability or responsibility for any (i) errors, mistakes, or inaccuracies of content, (ii)
-personal injury or property damage, of any nature whatsoever, resulting from your
-access to and use of the Service, (iii) any unauthorized access to or use of our secure
-servers and/or any and all personal information and/or financial information stored
 
-therein, (iv) any interruption or cessation of transmission to or from the Service, (v) any
-bugs, viruses, trojan horses, or the like which may be transmitted to or through the
-Service by any third party, and/or (vi) any errors or omissions in any content or for any
-loss or damage of any kind incurred as a result of the use of any content posted,
-emailed, transmitted, or otherwise made available via the Service.
-In no event will Direct Chat, its directors, officers, agents, contractors, partners and
-employees, be liable to you or any third person for any special, direct, indirect, incidental,
-special, punitive, or consequential damages whatsoever including any lost profits or lost
-data arising from your use of the Service or other materials on, accessed through or
-downloaded from the Service, whether based on warranty, contract, tort, or any other
-legal theory, and whether or not Direct Chat has been advised of the possibility of these
-damages. The foregoing limitation of liability shall apply to the fullest extent permitted by
-law in the applicable jurisdiction. You specifically acknowledge that Direct Chat shall not
-be liable for user submissions or the defamatory, offensive, or illegal conduct of any third
-party and that the risk of harm or damage from the foregoing rests entirely with you.
-You agree to indemnify and hold Direct Chat, and each of its directors, officers, agents,
-contractors, partners and employees, harmless from and against any loss, liability, claim,
-demand, damages, costs and expenses, including reasonable attorney’s fees, arising
-out of or in connection with (i) your use of and access to the Service; (ii) your violation of
-any term of these Terms of Service; (iii) your violation of any third party right, including
-without limitation any copyright, property, or privacy right; (iv) any claim that one of your
-User Submissions caused damage to a third party; or (v) any Content you post or share
-on or through the Service.
-General
-By visiting or using the the Service, you agree that the laws of India and the State of
-Karntaka, without regard to principles of conflict of laws and regardless of your location,
-will govern these Terms of Service and any dispute of any sort that might arise between
-you and Direct Chat. Any claim or dispute between you and Direct Chat that arises in
-whole or in part from your use of the Service shall be decided exclusively by a court of
-competent jurisdiction located in Bangalore, and you hereby consent to, and waive all
-defenses of lack of personal jurisdiction and forum non conveniens with respect to venue
-and jurisdiction in the state and federal courts of Bangalore. Direct Chat reserves the
-right to amend these Terms of Service at any time and without notice, and it is your
-responsibility to review these Terms of Service for any changes. Your use of Direct
-Chat following any amendment of these Terms of Service will signify your assent to and
-acceptance of its revised terms. YOU AND Direct Chat AGREE THAT ANY CAUSE OF
-ACTION ARISING OUT OF OR RELATED TO THE SERVICE MUST COMMENCE
-WITHIN ONE (1) YEAR AFTER THE CAUSE OF ACTION ACCRUES.OTHERWISE,
-SUCH CAUSE OF ACTION IS PERMANENTLY BARRED.
+Welcome to Direct Chat!  We respect and value your privacy.  
+
+The use of Direct Chat through our mobile applications may involve collection and use of your information.  This Privacy Policy explains and informs you how your information is collected, used and disclosed by Direct Chat with respect to your access and use of our services through our mobile applications.  It is important for you to understand this Privacy Policy and how you may protect your information, so please read this Privacy Policy carefully.
+
+
+
+I.   Application Scope of the Privacy Policy
+
+By using Direct Chat, you agree that we may collect, use and share your information in accordance with this Privacy Policy, as revised from time to time.  In addition, your use of Direct Chatsignifies that you agree with the terms of this Privacy Policy. If you do not agree with the terms of this Privacy Policy, do not use Direct Chat.
+
+
+
+This Privacy Policy is incorporated into and forms part of the Direct ChatTerms of Service that you have agreed to in order to use Direct Chat.  Any terms used in this Privacy Policy will have the same meaning as the equivalent defined terms in the Direct ChatTerms of Service unless otherwise defined in this Privacy Policy or the context requires otherwise.  Unless otherwise specified in this Privacy Policy, these terms in the Direct ChatTerms of Service shall also be applicable in this Privacy Policy.
+
+Any information that is collected is subject to the Privacy Policy in effect at the time such information is collected.  We may, however, modify and revise our Privacy Policy from time to time. If we make any change to this policy, which we deem to be material changes, we will (where reasonably practicable) notify you of such changes by posting them on our website, through our services or by sending you an email or other notification, and we will indicate when such changes will become effective. By continuing to access or use our services after the changes become effective, with or without notification, you are agreeing to be bound by the revised policy.
+
+Direct Chat may link you to social media or other features or services (including websites, plug-ins and widgets) provided by a third party.  Please note that this Privacy Policy does not apply to the information collected by any third-party websites, services or applications that can be accessed through our services, and does not apply to the information collected by other companies and organisations who advertise their services on Direct Chat.  We bear no liability for any third party use of any information provided by you to them.
+
+
+
+II. Information You Provide and We Collect
+
+2.1 To provide the services of Direct Chat, we collect, store and use the following Information relating to you:
+
+any information included in your Direct Chatprofile which are visible to other users of Direct Chat, or information you make available to us via your use of Direct Chat, which may include your photographs, your education, city or area and other information; 
+information about your and others usage of and interaction with the service and our application, including usage by geographies, device and connection information, IP address, device capability, bandwidth, statistics on page views and network type; 
+information we collect as you use Direct Chat, which may include: 
+technical information, such as your mobile carrier-related information, configuration information made available by other programs you use to access Direct Chat, your IP address, your location/country/region/time zone, your device's version and identification number, user settings, and the operating system; and 
+information about the likes and dislikes you have made using Direct Chat. 
+
+
+By using Direct Chat, you agree that all processing activities of sensitive personal information are for the purposes and in the manner as described in this Privacy Policy.
+
+Please note that we do not use your sensitive personal information for the purpose of making direct marketing unless agreed by you.
+
+
+III. How We Use the Information We Collect
+
+ Direct Chattakes the following permissions from you
+
+
+
+ For Storage
+
+Direct Chat requests permission for storing multimedia on your phone internal and external memory.
+
+
+
+For Camera
+
+Direct Chat requests permission to use the camera while using the app.
+
+
+
+For internet
+
+Direct Chat use internet to store your task information.
+
+for call history
+we used READ_CALL_LOG permission to show users their call history so they can directly send message from our app.
+
+
+3.1 Purposes
+
+We may use your Information for any of the following purposes:
+
+to provide services to you (including both the services currently provided by us via Direct Chat and these services to be rendered by us via Direct Chatin future);
+to personalise and improve our services and your experiences when you use our services;
+to respond to inquiries, for the purposes of customer service, security, archival and backup purposes in connection with providing services of Direct Chat;
+to monitor and analyse usage and trends of our services; 
+personalise the services by, among other things, suggesting friends or profile information, or customising the content we show you, including ads;
+enhance the safety and security of our products and services;
+verify your identity and prevent fraud or other unauthorised or illegal activity;
+use information we have collected from cookies and other technology to enhance the services and your experience with them; and
+enforce our Terms of Service and other usage polices.
+
+
+
+
+
+3.2 Transfer and Storage
+
+We operate and may continue to operate servers in a number of jurisdictions around the world, so the server on which your personal information is used and stored may not be in your jurisdiction.
+
+You consent to the transfer of your personal information (both inside and outside of your jurisdiction) for the purposes described in this Privacy Policy.
+
+
+
+3.3 Sharing 
+
+By using Direct Chat, you agree to the third party use, sharing and transfer of your personal information (both inside and outside of your jurisdiction) as prescribed in this Privacy Policy.  
+
+We will share information about you when you upload or post these information on Direct Chat, or if we notify you that the information you provide will be shared in a particular manner and you provide such information. Please do not post or add personal data to your profile that you would not want to be publicly available.
+
+We may share information about you in anonymous and/or aggregated form with third parties for usage analytics (to help us better understand who is using our services and how), and for industry analysis, demographic profiling, research, and other similar purposes.
+
+Your information may be accessed and used by our service providers who are working with us in connection with the operation of our services.  These service providers may have access to your information but only to the extent necessary to perform services on our behalf and are obligated not to disclose that information or use it for any other purposes. These providers will collect the information sent by your mobile phone, tablet or desktop computer, and their use of that information is governed by their applicable privacy policy.
+
+We may share information about you if we are (or if we believe we are) required by law or legal process (such as a subpoena, warrant or court order), if we have to respond to a lawful request from legal authorities to disclose such information, or if we need to enforce or apply this Privacy Policy, our Terms of Service or our other policies.
+
+If we are acquired by a third party or may re-organise our group structure, your information may be transferred within our group and/or to a third party who will continue to operate Direct Chat or similar services under either this Privacy Policy or a different privacy policy which will be notified to you. The party to which your personal information is transferred may be located, and use your Information, outside of your jurisdiction.
+
+Other than as permitted under this Privacy Policy or as otherwise consented to by you or as required by law or legal process, we will not transfer your personal information to any other third parties for their processing for any purposes.
+
+
+
+3.4  Security Measures We Take To Protect Your Information
+
+We employ administrative, physical and electronic measures designed to protect your information from unauthorised access, however, despite these efforts, no security measures are perfect or impenetrable and no method of data transmission can be guaranteed against any interception or other type of misuse. In the event that your personal information is compromised as a result of a breach of security, we will promptly notify you if your personal information has been compromised, as required by applicable law.
+
+Where we do share your personal information with any third parties, we will use reasonable efforts to ensure that such third parties only use your personal information: (i) in compliance with this Privacy Policy; and (ii) subject to any other instructions we give them, including any appropriate confidentiality and security measures that we implement.
+
+
+
+IV. How to Access Your Information
+
+You can access and modify the information you provided to us through your account.  
+
+If you believe your information posted on Direct Chat is not authentic or accurate and can provide us with reasonable proof regarding this, you can require us via the contact information provided in this Privacy Policy to correct these unauthentic or inaccurate information and we will use reasonable efforts to honour your request; however, we may retain an archived copy of your information as required by law and/or for record keeping purposes.  
+
+Once your account is closed or deleted, you will no longer have access to your message history, preferences or any other information associated with your use of our services.  Even after you remove information from your account or profile, copies of that information may remain viewable elsewhere, to the extent it has been shared with others, it was otherwise distributed pursuant to your privacy settings, or it was copied or stored by other users. Additionally, we will retain your personal data even after you have closed your account if reasonably necessary to comply with our legal obligations (including law enforcement requests), meet regulatory requirements, resolve disputes, maintain security, prevent fraud and abuse, or enforce the Terms of Service. We will retain de-personalised information after your account has been closed.
+
+In some cases, we may not be able to update, amend or remove your personal information, in which case we will let you know why we are unable to do so, for example, certain requests may require disproportionate technical effort or extremely impractical, or are prohibited by law.
+
+Since Direct Chat will be used in multiple jurisdictions and we may not be possible to identify all the inconsistency between certain terms of this Privacy Policy and the applicable law in your jurisdiction, thus you agree to notify us once such inconsistency is identified by you. Under this circumstance we will take necessary methods to eliminate such inconsistency, including deleting these personal information improperly collected or used by us. 
+
+
+
+V. Contacting Us
+
+If you have any questions about our Privacy Policy or any privacy-related matters, please contact us via email at utlityapps@gmail.com.
+
+
+
+**END**
 
 
 
