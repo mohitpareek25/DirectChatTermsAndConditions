@@ -1,4 +1,4 @@
-# Terms And Conditions
+# Privacy Policy
 
 Direct Chat “Privacy Policy"
 
