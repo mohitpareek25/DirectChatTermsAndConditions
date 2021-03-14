@@ -1,6 +1,6 @@
 ## Terms And Conditions
 
-Direct Chat “ Privacy Policy
+Direct Chat “Privacy Policy"
 
 
 
