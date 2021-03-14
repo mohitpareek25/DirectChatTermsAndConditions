@@ -1,4 +1,4 @@
-### Terms And Conditions
+# Terms And Conditions
 
 Direct Chat “Privacy Policy"
 
@@ -26,7 +26,7 @@ Direct Chat may link you to social media or other features or services (includin
 
 ## II. Information You Provide and We Collect
 
-# 2.1 To provide the services of Direct Chat, we collect, store and use the following Information relating to you:
+### 2.1 To provide the services of Direct Chat, we collect, store and use the following Information relating to you:
 
 any information included in your Direct Chatprofile which are visible to other users of Direct Chat, or information you make available to us via your use of Direct Chat, which may include your photographs, your education, city or area and other information; 
 information about your and others usage of and interaction with the service and our application, including usage by geographies, device and connection information, IP address, device capability, bandwidth, statistics on page views and network type; 
@@ -66,7 +66,7 @@ for call history
 we used READ_CALL_LOG permission to show users their call history so they can directly send message from our app.
 
 
-# 3.1 Purposes
+### 3.1 Purposes
 
 We may use your Information for any of the following purposes:
 
@@ -84,7 +84,7 @@ enforce our Terms of Service and other usage polices.
 
 
 
-# 3.2 Transfer and Storage
+### 3.2 Transfer and Storage
 
 We operate and may continue to operate servers in a number of jurisdictions around the world, so the server on which your personal information is used and stored may not be in your jurisdiction.
 
@@ -92,7 +92,7 @@ You consent to the transfer of your personal information (both inside and outsid
 
 
 
-# 3.3 Sharing 
+### 3.3 Sharing 
 
 By using Direct Chat, you agree to the third party use, sharing and transfer of your personal information (both inside and outside of your jurisdiction) as prescribed in this Privacy Policy.  
 
@@ -110,7 +110,7 @@ Other than as permitted under this Privacy Policy or as otherwise consented to b
 
 
 
-# 3.4  Security Measures We Take To Protect Your Information
+### 3.4  Security Measures We Take To Protect Your Information
 
 We employ administrative, physical and electronic measures designed to protect your information from unauthorised access, however, despite these efforts, no security measures are perfect or impenetrable and no method of data transmission can be guaranteed against any interception or other type of misuse. In the event that your personal information is compromised as a result of a breach of security, we will promptly notify you if your personal information has been compromised, as required by applicable law.
 
